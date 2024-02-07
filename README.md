@@ -8,6 +8,6 @@ Add the command to clone this repository. Then you will have access to the data 
 
 Then use the following code to access the data files.
 
-import csv
-filename='ICS4U-Data-Files/**filename**.csv'
+import csv <br>
+filename='ICS4U-Data-Files/**filename**.csv' <br>
 with open(filename) as f:
