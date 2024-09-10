@@ -6,7 +6,7 @@ Add the command to clone this repository. Then you will have access to the data 
 
 !git clone https://github.com/rmerrickPC/ICS4U-Data-Files.git
 
-Then use the following code to access the data files.
+Then use the following code to access the CSV data files.
 
 import csv <br>
 filename='ICS4U-Data-Files/**filename**.csv' <br>
