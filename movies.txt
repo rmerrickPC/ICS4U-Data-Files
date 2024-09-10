@@ -1,0 +1,68 @@
+Youth in Revolt,Comedy,52,2010
+You Will Meet a Tall Dark Stranger,Comedy,35,2010
+When in Rome,Comedy,44,2010
+What Happens in Vegas,Comedy,72,2008
+Water For Elephants,Drama,72,2011
+WALL-E,Animation,89,2008
+Waitress,Romance,67,2007
+Waiting For Forever,Romance,53,2011
+Valentines Day,Comedy,54,2010
+Tyler Perrys Why Did I get Married,Romance,47,2007
+Twilight,Romance,82,2008
+The Ugly Truth,Comedy,68,2009
+The Time Travelers Wife,Drama,65,2009
+The Proposal,Comedy,74,2009
+The Invention of Lying,Comedy,47,2009
+The Heartbreak Kid,Comedy,41,2007
+The Duchess,Drama,68,2008
+The Curious Case of Benjamin Button,Fantasy,81,2008
+The Back-up Plan,Comedy,47,2010
+Tangled,Animation,88,2010
+Something Borrowed,Romance,48,2011
+Shes Out of My League,Comedy,60,2010
+Remember Me,Drama,70,2010
+Rachel Getting Married,Drama,61,2008
+Penelope,Comedy,74,2008
+P.S. I Love You,Romance,82,2007
+Over Her Dead Body,Comedy,47,2008
+Our Family Wedding,Comedy,49,2010
+One Day,Romance,54,2011
+Not Easily Broken,Drama,66,2009
+No Reservations,Comedy,64,2007
+Nick and Norahs Infinite Playlist,Comedy,67,2008
+New Years Eve,Romance,48,2011
+My Week with Marilyn,Drama,84,2011
+Music and Lyrics,Romance,70,2007
+Monte Carlo,Romance,50,2011
+Miss Pettigrew Lives for a Day,Comedy,70,2008
+Midnight in Paris,Romence,84,2011
+Marley and Me,Comedy,77,2008
+Mamma Mia!,Comedy,76,2008
+Made of Honor,Comdy,61,2008
+Love Happens,Drama,40,2009
+Love & Other Drugs,Comedy,55,2010
+Life as We Know It,Comedy,62,2010
+License to Wed,Comedy,55,2007
+Letters to Juliet,Comedy,62,2010
+Leap Year,Comedy,49,2010
+Knocked Up,Comedy,83,2007
+Killers,Action,45,2010
+Just Wright,Comedy,58,2010
+Jane Eyre,Romance,77,2011
+Its Complicated,Comedy,63,2009
+I Love You Phillip Morris,Comedy,57,2010
+High School Musical,Comedy,76,2008
+Hes Just Not That Into You,Comedy,60,2009
+Good Luck Chuck,Comedy,61,2007
+Going the Distance,Comedy,56,2010
+Gnomeo and Juliet,Animation,52,2011
+Ghosts of Girlfriends Past,Comedy,47,2009
+Four Christmases,Comedy,52,2008
+Fireproof,Drama,51,2008
+Enchanted,Comedy,80,2007
+Dear John,Drama,66,2010
+Beginners,Comedy,80,2011
+Across the Universe,romance,84,2007
+A Serious Man,Drama,64,2009
+A Dangerous Method,Drama,89,2011
+27 Dresses,Comedy,71,2008
